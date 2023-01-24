@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <artifactId>graduation-project</artifactId>
-        <groupId>ru.market-gb</groupId>
+        <artifactId>market-place</artifactId>
+        <groupId>ru.market-place</groupId>
         <version>0.0.3</version>
     </parent>
 

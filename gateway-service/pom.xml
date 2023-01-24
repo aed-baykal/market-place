@@ -5,10 +5,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>ru.market-gb</groupId>
+    <groupId>ru.market-place</groupId>
     <artifactId>gateway-service</artifactId>
     <name>gateway-service</name>
-    <description>Gateway module for graduation-project</description>
+    <description>Gateway module for market-place</description>
     <version>0.0.2</version>
 
     <parent>

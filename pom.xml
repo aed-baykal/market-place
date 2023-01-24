@@ -5,10 +5,10 @@
     <version>0.0.3</version>
     <packaging>pom</packaging>
 
-    <groupId>ru.market-gb</groupId>
-    <artifactId>graduation-project</artifactId>
-    <name>Graduation Project</name>
-    <description>Graduation Project OurGroup</description>
+    <groupId>ru.market-place</groupId>
+    <artifactId>market-place</artifactId>
+    <name>Market Project</name>
+    <description>Market Project template</description>
 
     <modules>
         <module>gateway-service</module>
