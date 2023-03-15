@@ -17,7 +17,7 @@
 - Максим Шелепов - тимлид, аналитик  ([профиль github](https://github.com/Loredan15))
 - Андрей Зорин - бекэнд, фронтэнд  ([профиль github](https://github.com/ZorinAndrey))
 - Наталья Замыслова - фронтэнд, аналитик  ([профиль github](https://github.com/natsnegireva))
-- Андрей Дубовицкий - бекенд  ([профиль github](https://github.com/aed-baykal))
+- Андрей Дубовицкий - бекенд, фронтэнд  ([профиль github](https://github.com/aed-baykal))
 - Александр Коломыцев - бекэнд  ([профиль github](https://github.com/akolomytsev))
 - Евгений Лосев - бекэнд  ([профиль github](https://github.com/evgenlosev))
 - Евгений Якушин - бекэнд  ([профиль github](https://github.com/yajaneya))
